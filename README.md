@@ -12,12 +12,9 @@
 ---
 
 ### :fire: My Stats : 
-<div id="stats" align="center">
-  
+
   ![B-Chidsanu's Stats](https://github-readme-stats.vercel.app/api?username=B-Chidsanu&theme=radical&show_icons=true&hide_border=true&count_private=true) ![B-Chidsanu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=B-Chidsanu&theme=radical&hide_border=true)
   
-</div> 
-
-  ![B-Chidsanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Chidsanu&theme=radical&show_icons=true&hide_border=true&layout=compact&margin-left=100px)
+  ![B-Chidsanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Chidsanu&theme=radical&show_icons=true&hide_border=true&layout=compact&)
   
 
