@@ -20,9 +20,9 @@
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-chidsanu&show_icons=true&locale=en&layout=compact" alt="b-chidsanu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-chidsanu&theme=radical&show_icons=true&locale=en&layout=compact" alt="b-chidsanu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-chidsanu&show_icons=true&locale=en" alt="b-chidsanu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-chidsanu&theme=radical&show_icons=true&locale=en" alt="b-chidsanu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-chidsanu&" alt="b-chidsanu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b-chidsanu&theme=radical" alt="b-chidsanu" /></p>
 
