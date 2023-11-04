@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/ed7RrrCi4r7h5NoQI2"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/GoodMorningCat-happy-funny-cute-ed7RrrCi4r7h5NoQI2)" width="100"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=B-Chidsanu&style=flat-square&color=blue" alt="account counter"/>
 </div>
