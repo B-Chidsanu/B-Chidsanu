@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ed7RrrCi4r7h5NoQI2/giphy.gif" width="100"/>
   <h1 align="center">Hi 👋, I'm Chidsanupong</h1>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-chidsanu" alt="b-chidsanu" /></a> </p>
 </div>
+
 ---
 
 ### 🌐: Connect with me :
