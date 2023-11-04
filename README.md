@@ -1,11 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ed7RrrCi4r7h5NoQI2/giphy.gif" width="100"/>
   <h1 align="center">Hi 👋, I'm Chidsanupong</h1>
+  <img src="https://komarev.com/ghpvc/?username=b-chidsanu&label=Profile%20views&color=0e75b6&style=flat" alt="b-chidsanu" /> </p>
 </div>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=b-chidsanu&label=Profile%20views&color=0e75b6&style=flat" alt="b-chidsanu" /> </p>
-
 
 ---
 
