@@ -18,6 +18,6 @@
   
 </div> 
 
-  ![B-Chidsanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Chidsanu&theme=radical&show_icons=true&hide_border=true&layout=compact)
+  ![B-Chidsanu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-Chidsanu&theme=radical&show_icons=true&hide_border=true&layout=compact&margin-lef=30px)
   
 
