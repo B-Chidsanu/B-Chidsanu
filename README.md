@@ -14,7 +14,7 @@
 ### :fire: My Stats : 
 <div id="stats" align="center">
   
-  ![B-Chidsanu's Stats](https://github-readme-stats.vercel.app/api?username=B-Chidsanu&theme=radical&show_icons=true&hide_border=true&count_private=true). ![B-Chidsanu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=B-Chidsanu&theme=radical&hide_border=true).
+  ![B-Chidsanu's Stats](https://github-readme-stats.vercel.app/api?username=B-Chidsanu&theme=radical&show_icons=true&hide_border=true&count_private=true) ![B-Chidsanu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=B-Chidsanu&theme=radical&hide_border=true)
   
 </div> 
 
