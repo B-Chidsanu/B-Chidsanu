@@ -5,7 +5,7 @@
 
 ---
 
-### :globe With Meridians: Languages and Tools :
+### 🌐: Connect with me :
 <p align="left">
 <a href="https://instagram.com/b.chidsanu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="b.chidsanu_" height="30" width="40" /></a>
 <a href="https://discord.gg/chidsanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chidsanu" height="30" width="40" /></a>
